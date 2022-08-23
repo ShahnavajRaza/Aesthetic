@@ -1,0 +1,531 @@
+/* body{
+    font-family: 'DM Serif Display', serif;
+} */
+/* * {
+    border: 1px solid aqua;
+} */
+
+.provide_ {
+    background-color: #fdeddf;
+    padding: 90px 0px 90px 0px;
+}
+
+.nav_menu li {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 4px;
+    border-bottom: 1px solid transparent;
+
+}
+
+.nav_menu li:hover {
+    border: none;
+    border-bottom: 1px solid #914332;
+    /* overflow: hidden; */
+}
+
+.nav_menu li button {
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: rgb(199, 191, 191);
+}
+
+.nav_menu li button:hover {
+    background-color: #914332;
+    color: aliceblue;
+    border-bottom: none !important;
+    
+}
+
+.agency_based span {
+    font-family: 'DM Serif Display', serif;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 70px;
+    color: black;
+}
+
+.create_agency {
+    background: linear-gradient(rgba(97, 95, 95, 0.527), rgba(154, 154, 152, 0.555), rgba(105, 105, 108, 0.454)), url("educationimageback.jpg");
+    padding: 120px 0px;
+    background-size: cover;
+    background-position: top;
+}
+
+.create_agency p {
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.agency_btn {
+    padding-top: 20px;
+    padding-bottom: 22px;
+}
+
+
+
+.agency_btn button {
+    padding: 19px;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #914332;
+    color: white;
+}
+
+.agency_btn button:hover {
+    background-color: azure;
+    color: black;
+    border: 1px solid black;
+}
+
+.images_sec {
+    padding: 20px 0px 20px;
+}
+
+.our_services h6 {
+    font-weight: 500;
+    padding: 10px 0px 10px;
+}
+
+.our_services h1 {
+    font-family: 'DM Serif Display', serif;
+    padding: 17px 0px 39px 0px;
+}
+
+.crl_lst i {
+    background-color: #fdeddf;
+    color: black;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.cardd {
+    background-color: white;
+    padding: 20px 10px 20px 10px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    border-radius: 5%;
+}
+
+.our_wrk {
+    padding-top: 30px;
+}
+
+.our_wrk h6 {
+    padding: 10px 0px 10px 0px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.our_wrk button {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #914332;
+    color: white;
+}
+
+.our_wrk button:hover {
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid black;
+}
+
+.portfolio_txt h1 {
+    font-family: 'DM Serif Display', serif;
+    padding: 10px 0px 10px 0px;
+    font-size: 45px;
+}
+
+.portfolio_txt p {
+    padding: 10px 0px 10px 0px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+.ul_list li {
+    font-weight: 500;
+}
+
+.ul_list {
+    padding: 40px 0px 0px 10px;
+}
+
+.nab_tabs {
+    padding: 20px 0px 60px 0px;
+}
+
+.nab_tabs ul li {
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 2px solid transparent;
+}
+
+.nab_tabs ul li:hover {
+    background-color: transparent;
+    border-bottom: 2px solid red;
+}
+
+.img-thumb {
+    height: 310px;
+    width: 300px;
+    border-radius: 2%;
+}
+
+.img-thumb2 {
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+}
+
+.section_3_ {
+    background-color: #fdeddf;
+    padding: 90px 0px;
+}
+
+.abt_uss_ h6 {
+    font-weight: 600;
+    padding: 10px 0px 10px 0px;
+}
+
+
+.card_pd1 {
+    padding: 40px 0px 50px 0px;
+}
+
+.card_pd {
+    padding: 10px 0px 0px 0px;
+}
+
+.card_pd1 h6 {
+    padding: 10px 0px 0px 0px;
+    font-size: 20px;
+}
+
+.card_pd h6 {
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+}
+
+.we_buildd h1 {
+    font-size: 45px;
+    font-family: 'DM Serif Display', serif;
+    line-height: 60px;
+    color: black;
+}
+
+.full_service p {
+    padding: 10px 0px 10px 0px;
+}
+
+.quality_ser ul li {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    /* font-family: 'DM Serif Display', serif; */
+    /* color: blue; */
+}
+
+.quality_ser ul li i {
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    line-height: 30px !important;
+    padding: 10px;
+    text-align: center;
+    /* color: blue; */
+}
+
+.you_waiting {
+    background-color: #914332;
+    padding: 80px 0px 90px 0px;
+}
+
+.collaborate_ h5 {
+    color: whitesmoke;
+    font-size: 17px;
+    /* padding: 20px 0px 20px 0px; */
+}
+
+.collaborate_ h1 {
+    color: whitesmoke;
+    font-family: 'DM Serif Display', serif;
+}
+
+.collaborate_ p {
+    color: whitesmoke;
+    padding: 20px 0px 20px 0px;
+}
+
+/* .collaborate_{
+    padding-top: 80px;
+} */
+.collaborate_1 {
+    padding-top: 80px;
+}
+
+.lll {
+    background-color: white;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 15px;
+}
+.lll:hover{
+    background-color: white;
+    border: 2px solid black;
+    overflow: hidden;
+    padding: 14px;
+}
+
+.contact_ {
+    background-color: rgba(255, 255, 255, 0.685);
+    padding:10px ;
+
+    /* opacity: 0.6; */
+}
+.contact_ label{
+    color: black;
+}
+
+.last_list {
+    color: #914332;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    padding-bottom: 10px;
+}
+
+.contact_list li {
+    line-height: 35px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.last_btn {
+    background-color: #914332;
+    color: white;
+    font-weight: 500;
+    padding: 7px;
+    margin-top: 20px;
+}
+
+.last_footer {
+    padding: 70px 0px 30px;
+}
+
+.last_input input {
+    border: none;
+    border-bottom: 1px solid #914332;
+}
+
+.frm_btn{
+    background-color:rgb(199 191 191);
+    color: black;
+    padding: 4px 40px;
+}
+.frm_btn:hover{
+    background-color: #fdeddf !important;
+    border: 1px solid black;
+    color: black;
+    font-weight: 500;
+    /* padding: 2px; */
+}
+
+
+/* media query  */
+
+@media screen and (max-width:600px) {
+
+    /* .pepsi_img {
+        width: 300px;
+    }
+
+    .men_head {
+        height: 100%;
+        width: 50%;
+    }
+
+    .fruit_img {
+        height: 100%;
+        width:200px;
+    } */
+    .girl_img2 {
+        height: 100%;
+        width: 300px;
+        padding-bottom: 30px;
+        /* justify-content: center; */
+    }
+
+    .section_3_ {
+        background-color: #fdeddf;
+        padding: 10px 0px;
+    }
+
+    .create_agency {
+        padding-top: 32px;
+    }
+
+    .agency_based span {
+        font-family: 'DM Serif Display', serif;
+        font-size: 38px;
+        font-weight: 400;
+        line-height: 25px;
+        /* color: blue; */
+    }
+
+    .create_agency p {
+        font-weight: 400;
+        line-height: 20px;
+        font-size: 17px;
+    }
+
+    .agency_btn button {
+        padding: 12px;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .provide_ {
+        /* background-color: #fdeddf; */
+        padding: 30px 0px 30px 0px;
+    }
+
+    .our_services h1 {
+        padding: 11px 0px 27px 0px;
+        font-size: 26px;
+    }
+
+    .cardd h4 {
+        font-size: 22px;
+    }
+
+    .portfolio_txt h1 {
+        font-family: 'DM Serif Display', serif;
+        padding: 10px 0px 10px 0px;
+        font-size: 26px;
+    }
+
+    .our_wrk {
+        padding-top: 15px;
+    }
+
+    .our_wrk h6 {
+        padding: 0px 0px 0px 0px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .portfolio_txt p {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 400;
+    }
+
+    .our_wrk button {
+        padding: 10px;
+        font-size: 15px;
+        font-weight: 100;
+        background-color: #914332;
+        color: white;
+    }
+
+    .un1_img {
+        padding-bottom: 20px;
+    }
+
+    .card_pd1 {
+        padding: 40px 0px 0px 0px;
+    }
+
+    .we_buildd h1 {
+        font-size: 26px;
+        font-family: 'DM Serif Display', serif;
+        line-height: 26px;
+    }
+
+    .abt_uss_ h6 {
+        padding: 10px 0px 3px 0px;
+        font-size: 15px;
+    }
+
+    .full_service p {
+        padding: 5px 0px 0px 0px;
+    }
+
+    .quality_ser ul li i {
+        font-size: 15px !important;
+        line-height: 16px !important;
+        padding: 8px;
+        text-align: center;
+    }
+
+    .collaborate_ h5 {
+        color: whitesmoke;
+        font-size: 12px;
+        /* padding: 20px 0px 20px 0px; */
+    }
+
+    .collaborate_ h1 {
+        color: whitesmoke;
+        font-family: 'DM Serif Display', serif;
+        font-size: 26px;
+    }
+
+    .collaborate_ p {
+        font-size: 15px;
+        color: whitesmoke;
+        /* padding: 10px; */
+    }
+
+    .lll {
+        background-color: white;
+        font-weight: 600;
+        font-size: 16px;
+        padding: 7px 15px;
+    }
+
+    .you_waiting {
+        background-color: #914332;
+        padding: 30px 0px 30px 0px;
+    }
+
+    .last_footer {
+        padding: 30px 0px 30px;
+    }
+
+    .contact_list li {
+        line-height: 35px;
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .last_list {
+        color: #914332;
+        font-size: 18px !important;
+        font-weight: 600 !important;
+        padding-bottom: 10px;
+    }
+
+    .last_btn {
+        background-color: #914332;
+        color: white !important;
+        font-weight: 500;
+        padding: 7px 26px;
+        margin-top: 20px;
+    }
+
+    .last_image {
+        padding: 14px 80px;
+    }
+
+    .last_input input {
+        padding: 6px 17px;
+        border: none;
+        border-bottom: 1px solid #914332;
+        width: 80%;
+    }
+
+    .full_service p {
+        font-size: 15px;
+    }
+}
